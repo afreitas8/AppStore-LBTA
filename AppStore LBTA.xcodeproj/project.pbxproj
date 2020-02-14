@@ -18,6 +18,7 @@
 		E8897A2423EB97C400C95206 /* AppsHeaderHorizontalController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8897A2323EB97C400C95206 /* AppsHeaderHorizontalController.swift */; };
 		E8897A2623EB9ADF00C95206 /* AppsHeaderCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8897A2523EB9ADF00C95206 /* AppsHeaderCell.swift */; };
 		E8897A2823ECF06E00C95206 /* AppGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8897A2723ECF06E00C95206 /* AppGroup.swift */; };
+		E8897A2A23F6305900C95206 /* SocialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8897A2923F6305900C95206 /* SocialApp.swift */; };
 		E8944CE323D7E3970070A101 /* UIView+Layout.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8944CE223D7E3970070A101 /* UIView+Layout.swift */; };
 		E8C696D423C7E6B6009567CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8C696D323C7E6B6009567CD /* AppDelegate.swift */; };
 		E8C696D623C7E6B6009567CD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8C696D523C7E6B6009567CD /* SceneDelegate.swift */; };
@@ -65,6 +66,7 @@
 		E8897A2323EB97C400C95206 /* AppsHeaderHorizontalController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppsHeaderHorizontalController.swift; sourceTree = "<group>"; };
 		E8897A2523EB9ADF00C95206 /* AppsHeaderCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppsHeaderCell.swift; sourceTree = "<group>"; };
 		E8897A2723ECF06E00C95206 /* AppGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppGroup.swift; sourceTree = "<group>"; };
+		E8897A2923F6305900C95206 /* SocialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialApp.swift; sourceTree = "<group>"; };
 		E8944CE223D7E3970070A101 /* UIView+Layout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Layout.swift"; sourceTree = "<group>"; };
 		E8C696D023C7E6B6009567CD /* AppStore LBTA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AppStore LBTA.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8C696D323C7E6B6009567CD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -246,6 +248,7 @@
 			children = (
 				E8C6971523CF3550009567CD /* SearchResult.swift */,
 				E8897A2723ECF06E00C95206 /* AppGroup.swift */,
+				E8897A2923F6305900C95206 /* SocialApp.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -443,6 +446,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E8C6971623CF3550009567CD /* SearchResult.swift in Sources */,
+				E8897A2A23F6305900C95206 /* SocialApp.swift in Sources */,
 				E8897A1223DFD1E300C95206 /* AppsPageController.swift in Sources */,
 				E8C6970423C7E733009567CD /* BaseTabBarController.swift in Sources */,
 				E8C696D823C7E6B6009567CD /* ViewController.swift in Sources */,
